@@ -1,2 +1,2 @@
-This is python cicd with aws and codebuild, codepipeline and codedeployyy
+This is python cicd with aws and codebuild, codepipeline and codedeployy
  
